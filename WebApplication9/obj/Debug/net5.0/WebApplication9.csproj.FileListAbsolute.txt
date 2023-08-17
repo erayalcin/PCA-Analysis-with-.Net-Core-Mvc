@@ -1,0 +1,157 @@
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/appsettings.json
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.exe
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.dll.config
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.deps.json
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.runtimeconfig.json
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.runtimeconfig.dev.json
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.dll
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/ref/WebApplication9.dll
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.pdb
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.Views.dll
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.Views.pdb
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.dll
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.MachineLearning.dll
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.Math.Core.dll
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.Math.dll
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.Statistics.dll
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/bin/Debug/net5.0/CsvHelper.dll
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.csproj.AssemblyReference.cache
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.AssemblyInfoInputs.cache
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.AssemblyInfo.cs
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.csproj.CoreCompileInputs.cache
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorAssemblyInfo.cache
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorAssemblyInfo.cs
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/staticwebassets/WebApplication9.StaticWebAssets.Manifest.cache
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/staticwebassets/WebApplication9.StaticWebAssets.xml
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/scopedcss/bundle/WebApplication9.styles.css
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.TagHelpers.input.cache
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.TagHelpers.output.cache
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorCoreGenerate.cache
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Home/PcaResult.cshtml.g.cs
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Home/UploadCsv.cshtml.g.cs
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorTargetAssemblyInfo.cache
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorTargetAssemblyInfo.cs
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.Views.pdb
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.csproj.CopyComplete
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.dll
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/ref/WebApplication9.dll
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.pdb
+C:/Users/Eray Alçin/source/repos/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.genruntimeconfig.cache
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/appsettings.Development.json
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/appsettings.json
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.StaticWebAssets.xml
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.dll.config
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.deps.json
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.runtimeconfig.json
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.runtimeconfig.dev.json
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.dll
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.pdb
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.Views.dll
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.Views.pdb
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.dll
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.MachineLearning.dll
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.Math.Core.dll
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.Math.dll
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.Statistics.dll
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/bin/Debug/net5.0/CsvHelper.dll
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.csproj.AssemblyReference.cache
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.AssemblyInfoInputs.cache
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.AssemblyInfo.cs
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.csproj.CoreCompileInputs.cache
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.MvcApplicationPartsAssemblyInfo.cache
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorAssemblyInfo.cache
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorAssemblyInfo.cs
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/scopedcss/bundle/WebApplication9.styles.css
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/staticwebassets/WebApplication9.StaticWebAssets.Manifest.cache
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/staticwebassets/WebApplication9.StaticWebAssets.Pack.cache
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/staticwebassets/msbuild.WebApplication9.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/staticwebassets/msbuild.build.WebApplication9.props
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication9.props
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.WebApplication9.props
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.TagHelpers.input.cache
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.TagHelpers.output.cache
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorCoreGenerate.cache
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Home/PcaResult.cshtml.g.cs
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Home/UploadCsv.cshtml.g.cs
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorTargetAssemblyInfo.cache
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorTargetAssemblyInfo.cs
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.Views.pdb
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.csproj.CopyComplete
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.dll
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/refint/WebApplication9.dll
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.pdb
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.genruntimeconfig.cache
+/Users/erayalcin/Desktop/WebApplication9/WebApplication9/obj/Debug/net5.0/ref/WebApplication9.dll
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/appsettings.Development.json
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/appsettings.json
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.StaticWebAssets.xml
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.dll.config
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.deps.json
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.runtimeconfig.json
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.runtimeconfig.dev.json
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.dll
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.pdb
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.Views.dll
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/WebApplication9.Views.pdb
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.dll
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.MachineLearning.dll
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.Math.Core.dll
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.Math.dll
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/Accord.Statistics.dll
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/bin/Debug/net5.0/CsvHelper.dll
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.csproj.AssemblyReference.cache
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.AssemblyInfoInputs.cache
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.AssemblyInfo.cs
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.csproj.CoreCompileInputs.cache
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.MvcApplicationPartsAssemblyInfo.cache
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorAssemblyInfo.cache
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorAssemblyInfo.cs
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/scopedcss/bundle/WebApplication9.styles.css
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/staticwebassets/WebApplication9.StaticWebAssets.Manifest.cache
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/staticwebassets/WebApplication9.StaticWebAssets.Pack.cache
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/staticwebassets/msbuild.WebApplication9.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/staticwebassets/msbuild.build.WebApplication9.props
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.WebApplication9.props
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.WebApplication9.props
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.TagHelpers.input.cache
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.TagHelpers.output.cache
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorCoreGenerate.cache
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Home/PcaResult.cshtml.g.cs
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Home/UploadCsv.cshtml.g.cs
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorTargetAssemblyInfo.cache
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.RazorTargetAssemblyInfo.cs
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.Views.pdb
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.csproj.CopyComplete
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.dll
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/refint/WebApplication9.dll
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.pdb
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/WebApplication9.genruntimeconfig.cache
+/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/obj/Debug/net5.0/ref/WebApplication9.dll

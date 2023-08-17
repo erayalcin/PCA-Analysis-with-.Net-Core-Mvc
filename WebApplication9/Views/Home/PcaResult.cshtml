@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "PCA Result";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        td {
+            background-color: white;
+        }
+
+        .reduced {
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>@ViewData["Title"]</h1>
+
+    <table>
+        <tr>
+            @foreach (var columnName in ViewBag.ColumnNames)
+            {
+                <th>@columnName</th>
+            }
+        </tr>
+        @for (int i = 1; i < ViewBag.ReducedData.Length; i++)
+        {
+           
+            <tr>
+                @for (int j = 0; j < ViewBag.records[i].Length; j++)
+                {
+                    var originalValue = ViewBag.records[i][j];
+                    var reducedValue = ViewBag.ReducedData[i][j];
+                    var backgroundColor = reducedValue > 0 ? "reduced" : "";
+                    <td class="@backgroundColor">@originalValue</td>
+                }
+            </tr>
+        }
+    </table>
+</body>
+</html>

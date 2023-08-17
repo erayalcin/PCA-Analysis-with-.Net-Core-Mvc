@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ADiROfNym7qgvZo/0dkOcl8XknXjJ6c41pNYrsv54y+4a3DPlxjzvEqnfUWuB29jru/Qh96vBnMIpX3lU/LeCQ==",
+  "success": true,
+  "projectFilePath": "/Users/erayalcin/Desktop/Projeler/WebApplication9/WebApplication9/PcaAnalizi.csproj",
+  "expectedPackageFiles": [
+    "/Users/erayalcin/.nuget/packages/accord/3.8.0/accord.3.8.0.nupkg.sha512",
+    "/Users/erayalcin/.nuget/packages/accord.machinelearning/3.8.0/accord.machinelearning.3.8.0.nupkg.sha512",
+    "/Users/erayalcin/.nuget/packages/accord.math/3.8.0/accord.math.3.8.0.nupkg.sha512",
+    "/Users/erayalcin/.nuget/packages/accord.statistics/3.8.0/accord.statistics.3.8.0.nupkg.sha512",
+    "/Users/erayalcin/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512",
+    "/Users/erayalcin/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/erayalcin/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/erayalcin/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
